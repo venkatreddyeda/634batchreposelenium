@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Build1">
+  <test thread-count="5" name="Build1_TestResults ">
+    <classes>
+      <class name="testng.AnnotationSample1"/>
+      <class name="testng.AnnotationSample2"/>
+      <class name="testng.blazedemo"/>
+      <class name="testng.Tirupati_balaji"/>
+      <class name="testng.JRI_Signin"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
